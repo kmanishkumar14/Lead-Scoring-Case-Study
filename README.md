@@ -6,7 +6,7 @@ The company markets its courses on several websites and search engines like Goog
 
 There are a lot of leads generated in the initial stage, but only a few of them come out as paying customers. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc. ) in order to get a higher lead conversion. X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
-Steps Followed
+Steps Followed:
 Reading Data
 Cleaning Data
 EDA
@@ -17,11 +17,12 @@ Making Predictions
 Model Evaluation
 ROC Curve
 Prediction on test set
-Precision- Recall
-Repository Contain following files:
-Leads.csv : Data to be work on.
-Leads Data Dictionary.xlsx : Data Dictionary.
-Lead Scoring Case Study.ipynb : The python file showing coding and data analysis.
-Assignment Subjective Questions.pdf : Some Subjective Questions with Answers.
-Lead Scoring case study.pdf : Final Presentation
-Lead Scoring Case Study Summary.pdf : Summary on what's done in the entire py file
+Precision-Recall
+The repository Contains the following files:
+
+Leads.csv: Data to be worked on.
+Leads Data Dictionary.xlsx: Data Dictionary.
+Lead Scoring Case Study.ipynb: The Python file showing coding and data analysis.
+Assignment Subjective Questions.pdf: Some Subjective Questions with Answers.
+Lead Scoring case study.pdf: Final Presentation
+Lead Scoring Case Study Summary.pdf: Summary of what's done in the entire py file
